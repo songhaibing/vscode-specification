@@ -1,6 +1,8 @@
 # vscode-specification
 vscode协作规范
 
+
+
 {
   "window.zoomLevel": 0,
   "editor.fontSize": 16,
